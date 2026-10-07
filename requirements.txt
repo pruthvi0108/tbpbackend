@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+joblib
+scikit-learn==1.6.1
